@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio | Data Analyst</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Chào! Tôi là [Tên Bạn] 👋</h1>
+        <p>Data Analyst | SQL | Python | Power BI</p>
+        <nav>
+            <a href="index.html">Trang Chủ</a>
+            <a href="about.html">Về Tôi</a>
+            <a href="projects.html">Dự Án</a>
+            <a href="blog.html">Blog</a>
+            <a href="contact.html">Liên Hệ</a>
+        </nav>
+    </header>
+
+    <section>
+        <h2>📊 Các Dự Án Nổi Bật</h2>
+        <div class="project">
+            <h3>📌 Phân Tích Dữ Liệu Doanh Số Bán Hàng</h3>
+            <p>Sử dụng SQL & Power BI để phân tích doanh số bán hàng của một công ty thương mại điện tử.</p>
+            <a href="projects/sales-analysis.html">Xem chi tiết</a>
+        </div>
+        <div class="project">
+            <h3>📌 Dự Báo Hiệu Suất Chạy Trail Bằng Machine Learning</h3>
+            <p>Áp dụng Python và mô hình ML để dự đoán thành tích trong các cuộc thi chạy trail.</p>
+            <a href="projects/trail-running-prediction.html">Xem chi tiết</a>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 [Tên Bạn] - Data Analyst Portfolio</p>
+    </footer>
+</body>
+</html>
